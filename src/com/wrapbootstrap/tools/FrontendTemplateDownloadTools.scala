@@ -191,11 +191,11 @@ object FrontendTest {
     var list = List[String](); //40
 
 //    list+:="http://htmlstream.com/preview/unify-v1.9.4/index.html"
-//    list +:= "http://htmlcoder.me/preview/the_project/v.1.2/index.html"//首页图片有问题
-    list +:= "http://razonartificial.com/themes/reason/v1.4.7/index.html"
-    list +:= "http://preview.webpixels.ro/boomerang-v2.0.2/index.html"
-    list +:= "http://theme.stepofweb.com/Atropos/v1.7/HTML/index.html"
-    list +:= "http://htmlcoder.me/preview/idea/v.1.4/html/index.html"
+//    __list+:= "http://htmlcoder.me/preview/the_project/v.1.2/index.html"//首页图片有问题
+//    list+:= "http://razonartificial.com/themes/reason/v1.4.7/index.html"
+//    list+:= "http://preview.webpixels.ro/boomerang-v2.0.2/index.html"
+//    __list+:= "http://theme.stepofweb.com/Atropos/v1.7/HTML/index.html"
+//    list+:= "http://htmlcoder.me/preview/idea/v.1.4/html/index.html"
 
 
     list.map(new FrontendTemplateDownloadTools().start(_))
