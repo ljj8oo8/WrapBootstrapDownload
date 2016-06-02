@@ -181,11 +181,13 @@ object Testt {
     //__list+:="http://192.241.236.31/themes/preview/smartadmin/1.8.x/ajax/index.html"//40
     //__list+:="http://radmin.squareturtle.com/1.1.0/index.html"//30
     //__list+:="https://jumpstartthemes.com/demo/v/2.1.0/templates/admin/index.html"//15
+    //__list+:="http://responsiweb.com/themes/preview/ace/1.4/index.html"//10
+    //__list +:= "http://seantheme.com/color-admin-v2.0/admin/html/index_v2.html" //30
 
     /*
         list+:="http://webapplayers.com/inspinia_admin-v2.5/index.html" //40
-        list+:="http://responsiweb.com/themes/preview/ace/1.4/index.html"//10
-        list +:= "http://seantheme.com/color-admin-v2.0/admin/html/index_v2.html" //30
+
+
         list+:="http://themicon.co/theme/angle/v3.3.1/backend-jquery/app/dashboard.html"//10 有其他版本
         list+:="http://ashobiz.asia/mac53/macadmin/index.html"//10
         list+:="http://detail.herokuapp.com/index.html"//10
